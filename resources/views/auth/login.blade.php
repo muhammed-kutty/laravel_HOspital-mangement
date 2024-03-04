@@ -1,4 +1,13 @@
 <x-guest-layout>
+     <div style="display: flex; background-color: rgb(195, 198, 201)">
+        <div style="background-color:blue;color: white;margin: auto; margin-top: 20px;border-radius: 10px">
+
+            <h1 style="font-size: 25px;width: 660px;text-align: center;">Admin:-admin@gamil.com    Password;-123456789</h1>
+        </div>
+        <div style="background-color:blueviolet;color: white;margin: auto; margin-top: 20px;border-radius: 10px">
+
+            <h1 style="font-size: 25px;width: 760px;text-align: center;">User:-mkkunnathodi0@gmail.com   Password;-123456789</h1>
+        </div>
     <x-authentication-card>
         <x-slot name="logo">
             <x-authentication-card-logo />
